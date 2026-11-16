@@ -1,0 +1,40 @@
+.login-card {
+  max-width: 520px;
+  margin: 70px auto;
+  padding: 30px;
+  text-align: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 12px #d7dfeb;
+}
+
+h2 {
+  color: #244b78;
+}
+
+button {
+  display: block;
+  margin: 18px auto 22px;
+  padding: 9px 28px;
+  border: 0;
+  border-radius: 5px;
+  background: #2864a5;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #174675;
+}
+
+.welcome {
+  padding: 18px;
+  border-radius: 7px;
+  background: #eaf7ef;
+  color: #246b48;
+  text-align: center;
+}
+
+.prompt {
+  color: #68778a;
+}
